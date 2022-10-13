@@ -51,6 +51,8 @@ while True:
 
         elif choice == '4':
             print(num1, "/", num2, "=", divide(num1, num2))
+        elif choice == '5':
+            print("NoChoice:") 
         
         # check if user wants another calculation
         next_calculation = input("Let's do next calculation? (yes/no): ")
