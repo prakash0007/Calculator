@@ -38,6 +38,8 @@ while True:
     # check if choice is one of the four options
     if choice in ('1', '2', '3', '4','5','6'):
         num1 = float(input("Enter first number: "))
+    if choice in ('1', '2', '3', '4','5'):
+        num1 = float(input("Enter 1st number: "))
         num2 = float(input("Enter second number: "))
 
         if choice == '1':
@@ -58,4 +60,4 @@ while True:
           break
     
     else:
-        print("Invalid Input")
+        print("Invalid Input Data:")
