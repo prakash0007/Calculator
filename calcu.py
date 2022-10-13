@@ -7,6 +7,7 @@ def add(x, y):
 
 # This function subtracts two numbers
 def sbtract(x, y):
+    print("Substraction")
     return x - y
 
 # This function multiplies two numbers in 
