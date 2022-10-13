@@ -6,8 +6,8 @@ def add(x, y):
     return x + y
 
 # This function subtracts two numbers
-def sbtract(p, q):
-    return p - q
+def sbtract(x, y):
+    return x - y
 
 # This function multiplies two numbers in 
 def multiply(x, y):
