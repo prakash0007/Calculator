@@ -12,6 +12,7 @@ def sbtract(x, y):
 
 # This function multiplies two numbers in 
 def multiply(x, y):
+    print("Multiplication:")
     return x * y
 
 # This function divides two numbers
