@@ -6,10 +6,10 @@ def add(a, b):
     return a + b
 
 # This function subtracts two numbers
-def subtract(p, q):
+def sbtract(p, q):
     return p - q
 
-# This function multiplies two numbers
+# This function multiplies two numbers in 
 def multiply(x, y):
     return x * y
 
