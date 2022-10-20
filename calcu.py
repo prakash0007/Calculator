@@ -2,8 +2,8 @@
 # Program make a simple calculator
 
 # This function adds two numbers
-def add(x, y):
-    return x + y
+def add(a, ay):
+    return a + ay
 
 # This function subtracts two numbers
 def sbtract(x, y):
